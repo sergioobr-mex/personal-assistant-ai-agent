@@ -120,7 +120,7 @@ personal-assistant/
 
 ```bash
 git clone https://github.com/sergioobr-mex/personal-assistant-ai-agent.git
-cd personal-assistant
+personal-assistant-ai-agent
 ```
 
 ### 2. Crear un entorno virtual
