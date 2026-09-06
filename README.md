@@ -119,7 +119,7 @@ personal-assistant/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/sergioobr-mex/personal-assistant-ai-agent.git
 cd personal-assistant
 ```
 
