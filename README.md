@@ -246,6 +246,11 @@ Este proyecto representa una implementación inicial y deliberadamente no incluy
 Estas capacidades forman parte de la evolución prevista del portafolio.
 
 ---
+## 🎥 Demo
+
+Video demostrativo de la ejecución e interacción con el agente desarrollado con Python y Google ADK.
+
+[▶️ Ver demostración del agente](./demo/demo-personal-assistant.mp4)
 
 ## 🚀 Próxima evolución
 
